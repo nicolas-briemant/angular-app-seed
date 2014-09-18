@@ -5,7 +5,7 @@ var angular = require('angular');
 var app = angular.module('SeedApp', []);
 
 app.controller('SeedController', function($scope) {
-  $scope.name = 'Nick';
+  $scope.name = 'John';
   $scope.sayHi = function() {
     $scope.hi = 'Hi ' + $scope.name;
   };
