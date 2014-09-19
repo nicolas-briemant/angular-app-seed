@@ -1,11 +1,13 @@
 'use strict';
 
 var angular = require('angular');
+require('./ctrl');
 
-var app = angular.module('SeedApp', []);
+var app = angular.module('SeedApp', ['ctrl']);
 
 app.controller('SeedController', function($scope) {
-  $scope.name = 'John';
+  $scope.name = 'Johnny';
+  $scope.banana = 'cake';
   $scope.sayHi = function() {
     $scope.hi = 'Hi ' + $scope.name;
   };

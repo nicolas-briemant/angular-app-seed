@@ -17,6 +17,6 @@ describe('Unit: SeedController', function() {
   it('should create $scope.hi when calling sayHi', function() {
     expect(scope.hi).toBeUndefined();
     scope.sayHi();
-    expect(scope.hi).toEqual('Hi John');
+    expect(scope.hi).toEqual('Hi Johnny');
   });
 });
