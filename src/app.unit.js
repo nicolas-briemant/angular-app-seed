@@ -19,4 +19,10 @@ describe('Unit: SeedController', function() {
     scope.sayHi();
     expect(scope.hi).toEqual('Hi Johnny');
   });
+
+  // it('should create $scope.bye when calling sayBye', function() {
+  //   expect(scope.bye).toBeUndefined();
+  //   scope.sayBye();
+  //   expect(scope.bye).toEqual('Bye.');
+  // });
 });
