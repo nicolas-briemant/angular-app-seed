@@ -1,5 +1,7 @@
 ![](https://raw.githubusercontent.com/tom-ripley/angular-app-automation/master/resources/icon-seed.png)
 
+[![Dependency Status](https://david-dm.org/tom-ripley/angular-app-seed.png)](https://david-dm.org/tom-ripley/angular-app-seed)
+
 Angular app seed. Sort of boilerplate that get you effective faster.  
 Use it as a starting point for your own project.
 
