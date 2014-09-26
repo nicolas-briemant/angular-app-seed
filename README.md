@@ -4,7 +4,7 @@
 [![Coverage Status](https://coveralls.io/repos/tom-ripley/angular-app-seed/badge.png)](https://coveralls.io/r/tom-ripley/angular-app-seed)
 [![Dependency Status](https://david-dm.org/tom-ripley/angular-app-seed.png)](https://david-dm.org/tom-ripley/angular-app-seed)
 
-Angular app seed. Sort of boilerplate that get you effective faster.  
+Angular app seed. Sort of boilerplate that gets you effective faster.  
 Use it as a starting point for your own project.
 
 # Installation
@@ -23,17 +23,20 @@ npm install -g gulp
 
 # Usage
 
-Relies on [angular-app-automation](https://github.com/tom-ripley/angular-app-automation).  
+Relies on [angular-app-automation](https://github.com/tom-ripley/angular-app-automation)
+which provides a useful set of [tasks](https://github.com/tom-ripley/angular-app-automation#task-reference).  
 
-You can start working within seconds:
+You can start working within seconds with a vanilla development workflow:
 ```shell
 gulp dev
 ```
 
-With unit tests:
+Or with unit tests supports:
 ```shell
 gulp dev:unit
 ```
+
+You also have a continuous integration workflow through [travis](https://travis-ci.org) and [coveralls](https://coveralls.io/).
 
 # Conventions
 
@@ -41,10 +44,6 @@ I like working in a modular way.
 The project has an entry point that clearly requires needed modules.  
 A module is like a small application that cover specific area of your project.  
 Put common stuff in a common folder.
-
-# Todo
-
-- Configure travis and coveralls.
 
 # License
 
