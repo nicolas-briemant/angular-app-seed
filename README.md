@@ -5,14 +5,14 @@ Use it as a starting point for your own project.
 
 # Installation
 
-I recommend to fork this repo ((see help here)[https://help.github.com/articles/fork-a-repo]).
+I recommend to fork this repo ([see help here](https://help.github.com/articles/fork-a-repo)).
 
 Then, install dependencies:
 ```shell
 npm install
 ```
 
-You may want to install gulp as a global package [gulp](http://gulpjs.com/):
+You may want to install [gulp](http://gulpjs.com/) as a global package:
 ```shell
 npm install -g gulp
 ```
@@ -35,7 +35,7 @@ gulp dev:unit
 
 I like working in a modular way.  
 The project has an entry point that clearly requires needed modules.  
-A module is lke a small application that cover specific area of your project.  
+A module is like a small application that cover specific area of your project.  
 Put common stuff in a common folder.
 
 # Todo
