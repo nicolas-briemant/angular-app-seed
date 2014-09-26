@@ -1,5 +1,6 @@
 ![](https://raw.githubusercontent.com/tom-ripley/angular-app-automation/master/resources/icon-seed.png)
 
+[![Build Status](https://travis-ci.org/tom-ripley/angular-app-seed)](https://travis-ci.org/tom-ripley/angular-app-seed)
 [![Dependency Status](https://david-dm.org/tom-ripley/angular-app-seed.png)](https://david-dm.org/tom-ripley/angular-app-seed)
 
 Angular app seed. Sort of boilerplate that get you effective faster.  
