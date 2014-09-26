@@ -27,7 +27,9 @@
     "url": "https://github.com/tom-ripley"
   },
   "dependencies": {
-    "angular": "^1.2.23",
+    "angular": "^1.2.23"
+  },
+  "devDependencies": {
     "angular-app-automation": "^0.1.3",
     "angular-mocks": "^1.2.22",
     "gulp": "^3.8.8"

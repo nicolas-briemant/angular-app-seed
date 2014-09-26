@@ -31,7 +31,7 @@ You can start working within seconds with a vanilla development workflow:
 gulp dev
 ```
 
-Or with unit tests supports:
+Or with unit tests support:
 ```shell
 gulp dev:unit
 ```
