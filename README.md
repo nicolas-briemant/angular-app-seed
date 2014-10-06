@@ -1,8 +1,8 @@
-![](https://raw.githubusercontent.com/tom-ripley/angular-app-automation/master/resources/icon-seed.png)
+![](https://raw.githubusercontent.com/nicolas-briemant/angular-app-automation/master/resources/icon-seed.png)
 
-[![Build Status](https://travis-ci.org/tom-ripley/angular-app-seed.svg?branch=master)](https://travis-ci.org/tom-ripley/angular-app-seed)
-[![Coverage Status](https://coveralls.io/repos/tom-ripley/angular-app-seed/badge.png)](https://coveralls.io/r/tom-ripley/angular-app-seed)
-[![Dependency Status](https://david-dm.org/tom-ripley/angular-app-seed.png)](https://david-dm.org/tom-ripley/angular-app-seed)
+[![Build Status](https://travis-ci.org/nicolas-briemant/angular-app-seed.svg?branch=master)](https://travis-ci.org/nicolas-briemant/angular-app-seed)
+[![Coverage Status](https://coveralls.io/repos/nicolas-briemant/angular-app-seed/badge.png)](https://coveralls.io/r/nicolas-briemant/angular-app-seed)
+[![Dependency Status](https://david-dm.org/nicolas-briemant/angular-app-seed.png)](https://david-dm.org/nicolas-briemant/angular-app-seed)
 
 Angular app seed. Sort of boilerplate that gets you effective faster.  
 Use it as a starting point for your own project.
@@ -23,8 +23,8 @@ npm install -g gulp
 
 # Usage
 
-Relies on [angular-app-automation](https://github.com/tom-ripley/angular-app-automation)
-which provides a useful set of [tasks](https://github.com/tom-ripley/angular-app-automation#task-reference).  
+Relies on [angular-app-automation](https://github.com/nicolas-briemant/angular-app-automation)
+which provides a useful set of [tasks](https://github.com/nicolas-briemant/angular-app-automation#task-reference).  
 
 You can start working within seconds with a vanilla development workflow:
 ```shell
@@ -49,7 +49,7 @@ Put common stuff in a common folder.
 
 The MIT License (MIT)
 
-Copyright (c) 2014 Tom Ripley
+Copyright (c) 2014 Nicolas Briemant
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

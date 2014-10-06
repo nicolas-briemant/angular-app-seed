@@ -11,20 +11,20 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/tom-ripley/angular-app-seed/blob/master/LICENSE"
+      "url": "https://github.com/nicolas-briemant/angular-app-seed/blob/master/LICENSE"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/tom-ripley/angular-app-seed.git"
+    "url": "https://github.com/nicolas-briemant/angular-app-seed.git"
   },
   "bugs": {
-    "url": "https://github.com/tom-ripley/angular-app-seed/issues"
+    "url": "https://github.com/nicolas-briemant/angular-app-seed/issues"
   },
-  "homepage": "https://github.com/tom-ripley/angular-app-seed",
+  "homepage": "https://github.com/nicolas-briemant/angular-app-seed",
   "author": {
-    "name": "Tom Ripley",
-    "url": "https://github.com/tom-ripley"
+    "name": "Nicolas Briemant",
+    "url": "https://github.com/nicolas-briemant"
   },
   "dependencies": {
     "angular": "^1.2.23"
